@@ -1,0 +1,10 @@
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\bin\Debug\ObjectCollisionGame.exe.config
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\bin\Debug\ObjectCollisionGame.exe
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\bin\Debug\ObjectCollisionGame.pdb
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\obj\Debug\ObjectCollisionGame.csprojAssemblyReference.cache
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\obj\Debug\ObjectCollisionGame.ObjectCollidingGame.resources
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\obj\Debug\ObjectCollisionGame.Properties.Resources.resources
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\obj\Debug\ObjectCollisionGame.csproj.GenerateResource.cache
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\obj\Debug\ObjectCollisionGame.csproj.CoreCompileInputs.cache
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\obj\Debug\ObjectCollisionGame.exe
+E:\C# Programs\ObjectCollisionGame\ObjectCollisionGame\obj\Debug\ObjectCollisionGame.pdb
